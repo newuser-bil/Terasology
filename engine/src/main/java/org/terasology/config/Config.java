@@ -64,8 +64,8 @@ import java.util.Optional;
 import java.util.Set;
 
 /**
- * Terasology user config. Holds the various global configuration information that the user can modify. It can be saved
- * and loaded in a JSON format.
+ * Terasology user config. Holds the various global configuration information that the user can modify.
+ * It can be saved and loaded in a JSON format.
  */
 public final class Config {
     public static final String PROPERTY_OVERRIDE_DEFAULT_CONFIG = "org.terasology.config.default.override";
